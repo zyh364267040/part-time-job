@@ -9,7 +9,7 @@ __pycache__/
 .idea
 
 # password
-PASSWORD
+PASSWORD.py
 
 # Distribution / packaging
 .Python
