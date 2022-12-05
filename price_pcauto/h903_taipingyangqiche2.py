@@ -1,5 +1,8 @@
 # -*- coding = utf-8 -*-
 # @Time: 2022/10/31 21:51
+"""
+获取太平洋汽车名首个汉字字母,品牌,汽车名字,封面图链接
+"""
 import requests
 import time
 import random

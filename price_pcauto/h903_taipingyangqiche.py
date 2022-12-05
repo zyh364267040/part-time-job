@@ -1,5 +1,8 @@
 # -*- coding = utf-8 -*-
 # @Time: 2022/10/28 16:54
+"""
+获取太平洋汽车品牌、型号、评论
+"""
 import requests
 import time
 import random
